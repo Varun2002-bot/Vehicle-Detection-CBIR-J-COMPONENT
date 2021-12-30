@@ -1,0 +1,6 @@
+Install these modules
+
+pip install opencv-contrib-python
+pip install opencv-python
+pip install times
+pip install numpy
